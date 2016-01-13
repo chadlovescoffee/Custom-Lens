@@ -1,0 +1,7 @@
+{
+  "name" : "custom-lens",
+  "version": "1.0",
+  "main": "custom-lens.js",
+  "style" : "*.scss",
+  "transforms" : [ "sass-css-stream" ]
+}
